@@ -1,5 +1,3 @@
-# DarkLearn
+# Mediocre
 
-DarkLearn is my attempt at a learning algorithm. I don't know quite what I am doing, at least I can create a 'cool' 2-word compound name for my project.
-
-This will be done in python.
+This started after taking a look at the code of Sheeptester's "Online list" chatroom ([here] (https://sheeptester.github.io/javascripts/multiplayer/list.html). I was a little puzzled as to how it worked, so I decided to more or less copy it, but try to do it from scratch (with the help of many other libraries). The results of this attempt are this repository, and its website.
